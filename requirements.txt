@@ -1,0 +1,6 @@
+pandas 
+seaborn 
+Numpy
+scikit-Learn
+skops
+streamlit
